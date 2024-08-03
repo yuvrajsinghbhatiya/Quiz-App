@@ -33,6 +33,5 @@ This Quiz App is an interactive web application that allows users to take quizze
 
 ## Hosted URL
 
-    ```bash
     https://quiz-app-pi-livid.vercel.app/
-    ```
+    
